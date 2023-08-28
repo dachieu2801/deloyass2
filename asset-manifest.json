@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/deloyass2/static/css/main.4b040757.css",
+    "main.js": "/deloyass2/static/js/main.88e94a40.js",
+    "index.html": "/deloyass2/index.html",
+    "main.4b040757.css.map": "/deloyass2/static/css/main.4b040757.css.map",
+    "main.88e94a40.js.map": "/deloyass2/static/js/main.88e94a40.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b040757.css",
+    "static/js/main.88e94a40.js"
+  ]
+}
